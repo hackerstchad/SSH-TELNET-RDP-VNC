@@ -3,7 +3,7 @@
 **Auteur :** hackers_tchad  
 **Date de rédaction :** 2026  
 **Version :** 1.0  
-**Objectif :** Guide avancé, exhaustif et pratique des protocoles d'accès à distance les plus utilisés dans l'administration système, le réseau, la cybersécurité, le support technique et le domaine du hacking éthique.
+**Objectif :** Guide avancé, exhaustif et pratique des protocoles d'accès à distance les plus utilisés dans l'administration système, le réseau, la cybersécurité, le support technique et le domaine du hacking.
 
 ---
 
