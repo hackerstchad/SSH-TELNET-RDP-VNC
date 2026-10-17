@@ -1,5 +1,8 @@
 # Protocoles d'Accès à Distance : SSH, Telnet, RDP, VNC
 
+<img width="1024" height="559" alt="8b1c1369-441d-4e65-bd52-ea2f53d3b983" src="https://github.com/user-attachments/assets/cea0a055-dfd0-4ff9-80cc-b9005fe27c80" />
+
+
 **Auteur :** hackers_tchad  
 **Date de rédaction :** 2026  
 **Version :** 1.0  
