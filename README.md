@@ -1168,9 +1168,6 @@ for port in $PORTS; do
 done
 ```
 
-### 12.5 Notes sur la conformité et la législation
-
-L'utilisation des protocoles d'accès à distance doit respecter la législation en vigueur, notamment en matière de protection des données, de cybersécurité et d'accès aux systèmes d'information. Tout accès non autorisé à un système informatique est illégal. Ce document est destiné à un usage éducatif et professionnel dans un cadre légal.
 
 ### 12.6 Remerciements
 
